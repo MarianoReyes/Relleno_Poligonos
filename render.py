@@ -203,6 +203,6 @@ fill_calc_center(374, 335, 288, 251)
 fill_calc_center(436, 249, 377, 197)
 # tetera
 fill_calc_center(761, 230, 413, 36)
-
-
+fill_calc_center(750, 150, 750, 150)
+fill_calc_center(590, 227, 590, 227)
 r.write('imagen.bmp')
