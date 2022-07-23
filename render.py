@@ -55,7 +55,7 @@ class Render(object):
         # pixel data
         for x in range(self.height):
             for y in range(self.width):
-                f.write(self.framebuffer[x][y])
+                f.write(self.framebuffer[y][x])
 
         f.close()
 
